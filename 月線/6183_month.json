@@ -1,0 +1,434 @@
+{
+  "data": [
+    {
+      "date": "2021-01-01",
+      "stock_id": "6183",
+      "open": 50.5,
+      "max": 50.5,
+      "min": 46.2,
+      "close": 46.35,
+      "Trading_Volume": 1663162,
+      "Trading_money": 79535879
+    },
+    {
+      "date": "2021-02-01",
+      "stock_id": "6183",
+      "open": 46.35,
+      "max": 49.4,
+      "min": 46.2,
+      "close": 48.2,
+      "Trading_Volume": 1286232,
+      "Trading_money": 61840346
+    },
+    {
+      "date": "2021-03-01",
+      "stock_id": "6183",
+      "open": 48.2,
+      "max": 48.85,
+      "min": 47.5,
+      "close": 48.15,
+      "Trading_Volume": 1159064,
+      "Trading_money": 55835620
+    },
+    {
+      "date": "2021-04-01",
+      "stock_id": "6183",
+      "open": 48.45,
+      "max": 51,
+      "min": 48,
+      "close": 50.4,
+      "Trading_Volume": 2060821,
+      "Trading_money": 101310635
+    },
+    {
+      "date": "2021-05-01",
+      "stock_id": "6183",
+      "open": 50.4,
+      "max": 50.9,
+      "min": 47,
+      "close": 49.1,
+      "Trading_Volume": 2760295,
+      "Trading_money": 135558153
+    },
+    {
+      "date": "2021-06-01",
+      "stock_id": "6183",
+      "open": 49.45,
+      "max": 51.8,
+      "min": 48,
+      "close": 50.4,
+      "Trading_Volume": 2074896,
+      "Trading_money": 103865485
+    },
+    {
+      "date": "2021-07-01",
+      "stock_id": "6183",
+      "open": 50.5,
+      "max": 52.3,
+      "min": 50,
+      "close": 50.3,
+      "Trading_Volume": 1640295,
+      "Trading_money": 83367715
+    },
+    {
+      "date": "2021-08-01",
+      "stock_id": "6183",
+      "open": 50.4,
+      "max": 51.2,
+      "min": 49.55,
+      "close": 50,
+      "Trading_Volume": 1226981,
+      "Trading_money": 61783939
+    },
+    {
+      "date": "2021-09-01",
+      "stock_id": "6183",
+      "open": 50,
+      "max": 51.2,
+      "min": 49.85,
+      "close": 50.5,
+      "Trading_Volume": 1023635,
+      "Trading_money": 51654815
+    },
+    {
+      "date": "2021-10-01",
+      "stock_id": "6183",
+      "open": 50.3,
+      "max": 50.7,
+      "min": 49.7,
+      "close": 50.1,
+      "Trading_Volume": 1099685,
+      "Trading_money": 55126905
+    },
+    {
+      "date": "2021-11-01",
+      "stock_id": "6183",
+      "open": 50,
+      "max": 51.9,
+      "min": 49.4,
+      "close": 49.7,
+      "Trading_Volume": 850198,
+      "Trading_money": 42519085
+    },
+    {
+      "date": "2021-12-01",
+      "stock_id": "6183",
+      "open": 49.7,
+      "max": 51.8,
+      "min": 49.7,
+      "close": 51.1,
+      "Trading_Volume": 1260334,
+      "Trading_money": 63779071
+    },
+    {
+      "date": "2022-01-01",
+      "stock_id": "6183",
+      "open": 51.2,
+      "max": 55.5,
+      "min": 50.7,
+      "close": 51.2,
+      "Trading_Volume": 2391778,
+      "Trading_money": 125975826
+    },
+    {
+      "date": "2022-02-01",
+      "stock_id": "6183",
+      "open": 51.2,
+      "max": 52.8,
+      "min": 50.9,
+      "close": 51.6,
+      "Trading_Volume": 444394,
+      "Trading_money": 23039911
+    },
+    {
+      "date": "2022-03-01",
+      "stock_id": "6183",
+      "open": 51.7,
+      "max": 53.5,
+      "min": 51,
+      "close": 53.1,
+      "Trading_Volume": 807815,
+      "Trading_money": 42399030
+    },
+    {
+      "date": "2022-04-01",
+      "stock_id": "6183",
+      "open": 53.1,
+      "max": 54.3,
+      "min": 52.6,
+      "close": 53.6,
+      "Trading_Volume": 745721,
+      "Trading_money": 39934001
+    },
+    {
+      "date": "2022-05-01",
+      "stock_id": "6183",
+      "open": 53.6,
+      "max": 58.8,
+      "min": 52.9,
+      "close": 57.1,
+      "Trading_Volume": 1502321,
+      "Trading_money": 83647193
+    },
+    {
+      "date": "2022-06-01",
+      "stock_id": "6183",
+      "open": 57.1,
+      "max": 62.5,
+      "min": 56.8,
+      "close": 59.1,
+      "Trading_Volume": 2028425,
+      "Trading_money": 121474714
+    },
+    {
+      "date": "2022-07-01",
+      "stock_id": "6183",
+      "open": 59.9,
+      "max": 62.5,
+      "min": 58.5,
+      "close": 60.7,
+      "Trading_Volume": 991729,
+      "Trading_money": 59805302
+    },
+    {
+      "date": "2022-08-01",
+      "stock_id": "6183",
+      "open": 60.5,
+      "max": 72,
+      "min": 59.1,
+      "close": 70.5,
+      "Trading_Volume": 1818170,
+      "Trading_money": 116303141
+    },
+    {
+      "date": "2022-09-01",
+      "stock_id": "6183",
+      "open": 70.1,
+      "max": 77,
+      "min": 65,
+      "close": 68.7,
+      "Trading_Volume": 1797241,
+      "Trading_money": 124959291
+    },
+    {
+      "date": "2022-10-01",
+      "stock_id": "6183",
+      "open": 69.7,
+      "max": 70.6,
+      "min": 52.4,
+      "close": 54.5,
+      "Trading_Volume": 1994160,
+      "Trading_money": 116655386
+    },
+    {
+      "date": "2022-11-01",
+      "stock_id": "6183",
+      "open": 54.9,
+      "max": 62.1,
+      "min": 54.8,
+      "close": 60.3,
+      "Trading_Volume": 1181892,
+      "Trading_money": 68265899
+    },
+    {
+      "date": "2022-12-01",
+      "stock_id": "6183",
+      "open": 60.5,
+      "max": 60.9,
+      "min": 57.5,
+      "close": 59,
+      "Trading_Volume": 598919,
+      "Trading_money": 35528237
+    },
+    {
+      "date": "2023-01-01",
+      "stock_id": "6183",
+      "open": 58.7,
+      "max": 61.7,
+      "min": 58.5,
+      "close": 61.3,
+      "Trading_Volume": 627275,
+      "Trading_money": 37526642
+    },
+    {
+      "date": "2023-02-01",
+      "stock_id": "6183",
+      "open": 61.6,
+      "max": 64.7,
+      "min": 60,
+      "close": 63.4,
+      "Trading_Volume": 575434,
+      "Trading_money": 36011657
+    },
+    {
+      "date": "2023-03-01",
+      "stock_id": "6183",
+      "open": 63.7,
+      "max": 67.3,
+      "min": 63.2,
+      "close": 65.4,
+      "Trading_Volume": 999015,
+      "Trading_money": 64475184
+    },
+    {
+      "date": "2023-04-01",
+      "stock_id": "6183",
+      "open": 65.9,
+      "max": 65.9,
+      "min": 61.1,
+      "close": 61.9,
+      "Trading_Volume": 748641,
+      "Trading_money": 47266546
+    },
+    {
+      "date": "2023-05-01",
+      "stock_id": "6183",
+      "open": 61.9,
+      "max": 65.1,
+      "min": 61.9,
+      "close": 64.4,
+      "Trading_Volume": 792008,
+      "Trading_money": 50350007
+    },
+    {
+      "date": "2023-06-01",
+      "stock_id": "6183",
+      "open": 64.3,
+      "max": 66.8,
+      "min": 63.7,
+      "close": 66.2,
+      "Trading_Volume": 779398,
+      "Trading_money": 50819987
+    },
+    {
+      "date": "2023-07-01",
+      "stock_id": "6183",
+      "open": 66.5,
+      "max": 67.7,
+      "min": 64.8,
+      "close": 65.6,
+      "Trading_Volume": 463749,
+      "Trading_money": 30509915
+    },
+    {
+      "date": "2023-08-01",
+      "stock_id": "6183",
+      "open": 66.7,
+      "max": 68.7,
+      "min": 65,
+      "close": 66.3,
+      "Trading_Volume": 803265,
+      "Trading_money": 53525877
+    },
+    {
+      "date": "2023-09-01",
+      "stock_id": "6183",
+      "open": 66.4,
+      "max": 67.8,
+      "min": 66.2,
+      "close": 67.4,
+      "Trading_Volume": 537438,
+      "Trading_money": 36013759
+    },
+    {
+      "date": "2023-10-01",
+      "stock_id": "6183",
+      "open": 67.4,
+      "max": 68.6,
+      "min": 65.7,
+      "close": 66.5,
+      "Trading_Volume": 374790,
+      "Trading_money": 25166818
+    },
+    {
+      "date": "2023-11-01",
+      "stock_id": "6183",
+      "open": 68.1,
+      "max": 68.6,
+      "min": 66.3,
+      "close": 67,
+      "Trading_Volume": 555850,
+      "Trading_money": 37450890
+    },
+    {
+      "date": "2023-12-01",
+      "stock_id": "6183",
+      "open": 67,
+      "max": 67.9,
+      "min": 66.7,
+      "close": 66.9,
+      "Trading_Volume": 724269,
+      "Trading_money": 48565034
+    },
+    {
+      "date": "2024-01-01",
+      "stock_id": "6183",
+      "open": 66.8,
+      "max": 67.6,
+      "min": 66.3,
+      "close": 67,
+      "Trading_Volume": 841530,
+      "Trading_money": 56324888
+    },
+    {
+      "date": "2024-02-01",
+      "stock_id": "6183",
+      "open": 67.3,
+      "max": 70.5,
+      "min": 66.6,
+      "close": 69.8,
+      "Trading_Volume": 737285,
+      "Trading_money": 50902569
+    },
+    {
+      "date": "2024-03-01",
+      "stock_id": "6183",
+      "open": 69.8,
+      "max": 76.3,
+      "min": 69.5,
+      "close": 74.6,
+      "Trading_Volume": 969387,
+      "Trading_money": 70325977
+    },
+    {
+      "date": "2024-04-01",
+      "stock_id": "6183",
+      "open": 74.6,
+      "max": 75.8,
+      "min": 71.3,
+      "close": 74.2,
+      "Trading_Volume": 1046120,
+      "Trading_money": 77155274
+    },
+    {
+      "date": "2024-05-01",
+      "stock_id": "6183",
+      "open": 73.8,
+      "max": 75.2,
+      "min": 73,
+      "close": 74,
+      "Trading_Volume": 636771,
+      "Trading_money": 46980871
+    },
+    {
+      "date": "2024-06-01",
+      "stock_id": "6183",
+      "open": 74,
+      "max": 75.6,
+      "min": 73.2,
+      "close": 75,
+      "Trading_Volume": 481141,
+      "Trading_money": 35669937
+    },
+    {
+      "date": "2024-07-01",
+      "stock_id": "6183",
+      "open": 75,
+      "max": 76,
+      "min": 73.7,
+      "close": 74.9,
+      "Trading_Volume": 272208,
+      "Trading_money": 20397796
+    }
+  ]
+}
